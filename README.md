@@ -79,3 +79,4 @@ Demo Link: [QR COde Scanner and Generator](https://youtu.be/5u7sS0bnkZs)
 ## Old Version
 
 If you want to check out the previous version of this project, you can find it [here](https://github.com/dhairyapandya05/QR-Code-Scanner-and-Generator).
+Checkout Low Level System Design: [here](https://dev.to/dhairyapandya/how-am-i-4kn7).
