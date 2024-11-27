@@ -5,7 +5,9 @@ The **QR Code Scanner and Generator** is a modern, efficient, and feature-rich a
 With its minimalist design and advanced functionality, the app caters to both tech enthusiasts and beginners, ensuring a delightful and easy-to-navigate experience. The upgrade to Jetpack Compose also brings significant performance improvements and design flexibility.
 
 ## Demo
-Demo Link: [QR COde Scanner and Generator](https://github.com/dhairyapandya05/Star_Android_Library)## Features  
+Demo Link: [QR COde Scanner and Generator](https://github.com/dhairyapandya05/Star_Android_Library)
+
+## Features  
 
 ### 1. Modernized with Jetpack Compose  
 - Completely revamped UI using **Jetpack Compose**, enabling:  
